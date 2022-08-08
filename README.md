@@ -29,7 +29,7 @@ and getting DNS records from a given domain using flags. Here is how you use CAR
 
 # Advanced usage and JSON output 
 
-`o run main.go --domain="www.scanme.org" --record="*" -o -f="Filename_22222.json"`
+`go run main.go --domain="www.scanme.org" --record="*" -o -f="Filename_22222.json"`
 
 #### JSON OUTPUT ####
 
