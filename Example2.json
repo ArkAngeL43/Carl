@@ -1,0 +1,78 @@
+{
+ "MX": [
+  {
+   "Host": "smtp.google.com.",
+   "Pref": 10
+  }
+ ],
+ "NS": [
+  "ns2.google.com",
+  "ns1.google.com",
+  "ns4.google.com",
+  "ns3.google.com"
+ ],
+ "A": [
+  "2607:f8b0:4008:80b::200e",
+  "142.250.189.142",
+  "2607:f8b0:4008:80b::200e",
+  "142.250.64.238"
+ ],
+ "TXT": [
+  "google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ",
+  "v=spf1 include:_spf.google.com ~all",
+  "docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e",
+  "atlassian-domain-verification=5YjTmWmjI92ewqkx2oXmBaD60Td9zWon9r6eakvHX6B77zzkFQto8PQ9QsKnbf4I",
+  "apple-domain-verification=30afIBcvSuDV2PLX",
+  "docusign=1b0a6754-49b1-4db5-8540-d2c12664b289",
+  "webexdomainverification.8YX6G=6e6922db-e3e6-4a36-904e-a805c28087fa",
+  "google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o",
+  "facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95",
+  "globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=",
+  "MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB"
+ ],
+ "CNAME": "google.com.",
+ "PTR": [
+  "mia07s61-in-x0e.1e100.net.",
+  "mia09s26-in-f14.1e100.net.",
+  "mia07s61-in-x0e.1e100.net.",
+  "mia07s57-in-f14.1e100.net."
+ ],
+ "SERVER": "gws",
+ "STATUS": "200 OK",
+ "METHOD": "GET",
+ "Expires": "-1",
+ "X_frame_opts": "SAMEORIGIN",
+ "Date": "Mon, 08 Aug 2022 00:46:29 GMT",
+ "Content_Len": "-1",
+ "Cache_Control": "private, max-age=0",
+ "Set_Cookie": "1P_JAR=2022-08-08-00; expires=Wed, 07-Sep-2022 00:46:29 GMT; path=/; domain=.google.com; Secure AEC=AakniGPQGG4SvjsdyUXlfl0DL1279MFRyA6D8kbITxzpthw69FvYQ-5WQRk; expires=Sat, 04-Feb-2023 00:46:29 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=lax NID=511=NOT7a-LfViO6YI1oT9OaWk7nXxfKxVzjzIe8cCK322YhXH7QgMQgNjfUJS_5GHEeG5PRnBI-UT-vlLz8fkl-xVaHb5jf8rcG9OaRGvqdXCiXV28A9lba-laBhzCyga0n2M1t7ptlqplSasW4JPsB9D5-4WXuZWUCrTL_vvXKbio; expires=Tue, 07-Feb-2023 00:46:29 GMT; path=/; domain=.google.com; HttpOnly",
+ "SRV_CNAME_BASE": "_xmpp-server._tcp.google.com.",
+ "SRV_Target": [
+  "xmpp-server.l.google.com.",
+  "alt1.xmpp-server.l.google.com.",
+  "alt2.xmpp-server.l.google.com.",
+  "alt4.xmpp-server.l.google.com.",
+  "alt3.xmpp-server.l.google.com."
+ ],
+ "SRV_Port": [
+  5269,
+  5269,
+  5269,
+  5269,
+  5269
+ ],
+ "SRV_Priority": [
+  5,
+  20,
+  20,
+  20,
+  20
+ ],
+ "SRV_Weight": [
+  0,
+  0,
+  0,
+  0,
+  0
+ ]
+}

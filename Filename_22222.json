@@ -1,0 +1,32 @@
+{
+ "MX": null,
+ "NS": null,
+ "A": [
+  "2600:3c01::f03c:91ff:fe18:bb2f",
+  "45.33.32.156",
+  "2600:3c01::f03c:91ff:fe18:bb2f",
+  "45.33.32.156"
+ ],
+ "TXT": null,
+ "CNAME": "www.scanme.org.",
+ "PTR": [
+  "scanme.nmap.org.",
+  "scanme.nmap.org.",
+  "scanme.nmap.org.",
+  "scanme.nmap.org."
+ ],
+ "SERVER": "Apache/2.4.7 (Ubuntu)",
+ "STATUS": "200 OK",
+ "METHOD": "GET",
+ "Expires": "",
+ "X_frame_opts": "",
+ "Date": "Mon, 08 Aug 2022 04:32:55 GMT",
+ "Content_Len": "-1",
+ "Cache_Control": "",
+ "Set_Cookie": "",
+ "SRV_CNAME_BASE": "",
+ "SRV_Target": null,
+ "SRV_Port": null,
+ "SRV_Priority": null,
+ "SRV_Weight": null
+}

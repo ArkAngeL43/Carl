@@ -1,0 +1,33 @@
+{
+ "MX": null,
+ "NS": [
+  "ns-1568.awsdns-04.co.uk",
+  "ns-47.awsdns-05.com",
+  "ns-749.awsdns-29.net",
+  "ns-1327.awsdns-37.org"
+ ],
+ "A": [
+  "54.229.140.24",
+  "54.229.140.24"
+ ],
+ "TXT": null,
+ "CNAME": "scanme.com.",
+ "PTR": [
+  "ec2-54-229-140-24.eu-west-1.compute.amazonaws.com.",
+  "ec2-54-229-140-24.eu-west-1.compute.amazonaws.com."
+ ],
+ "SERVER": "nginx/1.10.3 (Ubuntu)",
+ "STATUS": "200 OK",
+ "METHOD": "GET",
+ "Expires": "",
+ "X_frame_opts": "SAMEORIGIN",
+ "Date": "Mon, 08 Aug 2022 17:51:44 GMT",
+ "Content_Len": "-1",
+ "Cache_Control": "max-age=0, private, must-revalidate",
+ "Set_Cookie": "_scanme_shell_session=gDpp9vxawCTSo0MXuDS%2B3RGAWM1%2FaOaIfqjaViT%2FzPDXKBDFNs3gFkcGnV%2FSMjxkdrNIwkg5Jix8VAMRr5XJnEb60NbZF5xq7GTi%2FHpAwWacON4OqrqzL8I6RJKYbLLHhGENehD3xDq%2BRCiNtqI%3D--EAO5%2BGAwnc8oGu0n--SIAFLkR5wj%2FtHjO4j8CkNw%3D%3D; path=/; HttpOnly",
+ "SRV_CNAME_BASE": "",
+ "SRV_Target": null,
+ "SRV_Port": null,
+ "SRV_Priority": null,
+ "SRV_Weight": null
+}
